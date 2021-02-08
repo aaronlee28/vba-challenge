@@ -1,1 +1,2 @@
 # vba-challenge
+The goal of this challange is to analyze real stock market data using Excel VBA. The script loops through all the stocks for one year and output information such as the ticker symbol, yearly change from opening price at the beginning of a given year to the closing price at the end of the year, the percent change from opening price at the beginning of a given year to the closing price at the end of that year, and, the total stock volume of the stock. 
